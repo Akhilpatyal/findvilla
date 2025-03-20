@@ -290,7 +290,7 @@ a:focus {
 }
 
 a {
-  color: var(--color-foreground);
+  color: var(--color-white);
 }
 
 a:hover {
